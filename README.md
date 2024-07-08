@@ -1,7 +1,6 @@
 <h1>Decodficiador de Texto</h1
                             
-<h2>💻 Projeto</h2> 
-<a>Bem-vindo ao "Decodificador de Texto", um site para criptografar e descriptografar o texto que quiser. Nesse projeto desenvolvimento foi feito em html, css e javascript com base no <a href= "https://trello.com/b/qmLsVkkq/decodificador-de-texto-alura-challenges-oracle-one">desafio</a> feito pela Alura com a Oracle.</a>
+<h2>💻 Projeto</h2> Bem-vindo ao "Decodificador de Texto", um site para criptografar e descriptografar o texto que quiser. Nesse projeto desenvolvimento foi feito em html, css e javascript com base no <a href= "https://trello.com/b/qmLsVkkq/decodificador-de-texto-alura-challenges-oracle-one">desafio</a> feito pela Alura com a Oracle                                  .</a>
 
 <h2>:floppy_disk: Tecnologias Utilizadas </h2> <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
