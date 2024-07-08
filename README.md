@@ -1,4 +1,4 @@
-<h1>Decodficiador de Texto</h1
+<h1>Decodficiador de Texto</h1>
                             
 <h2>💻 Projeto </h2> 
 <p>Bem-vindo ao "Decodificador de Texto", um site para criptografar e descriptografar o texto que quiser. Nesse projeto desenvolvimento foi feito em html, css e javascript com base no <a href= "https://trello.com/b/qmLsVkkq/decodificador-de-texto-alura-challenges-oracle-one">desafio</a> feito pela Alura com a Oracle.</p>
